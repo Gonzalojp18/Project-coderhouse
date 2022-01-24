@@ -102,6 +102,10 @@ div.box-main span {
 
 /* STYLE SECTION AGENCIA */
 
+.box-agency {
+    width: 100%;
+}
+
 div.box-costumer ul {
     list-style: none;
     display: flex;
